@@ -1,12 +1,13 @@
-## Hi there 👋
+# RateTheLandlord.org
 
-<!--
+RateTheLandlord.org is a community-driven platform for rating and reviewing landlords. Share your experiences, help others make informed decisions, and contribute to building a transparent rental community.
 
-**Here are some ideas to get you started:**
+Join our Discord: https://discord.gg/udBbqDGmPH
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## How to Contribute
+We welcome contributions from the community! To get started, check out the Repository you wish to contribute to and read the CONTRIBUTING.md document.
+
+## Feedback and Issues
+If you encounter any issues or have suggestions, please open an issue on the Issues tab.
+
+Happy contributing!
